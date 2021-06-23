@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-no13.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "brand-no13@2x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "brand-no13@3x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

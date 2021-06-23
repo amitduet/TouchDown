@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "icon-jersey.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "icon-jersey@2x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "icon-jersey@3x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

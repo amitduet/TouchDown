@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "icon-football.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "icon-football@2x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "icon-football@3x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

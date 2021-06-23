@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "icon-cheerleading-clothes.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "icon-cheerleading-clothes@2x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "icon-cheerleading-clothes@3x.png",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

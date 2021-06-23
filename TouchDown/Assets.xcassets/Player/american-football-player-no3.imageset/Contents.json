@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "american-football-player-no3.jpg",
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "TutsNode.com",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
